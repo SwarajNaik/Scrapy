@@ -1,0 +1,75 @@
+Country,S&P,Moody,Fitch,DBRS
+Argentina,CCC-,Ca,CC,CCC
+Australia,AAA,Aaa,AAA,AAA
+Austria,AA+,Aa1,AA+,AAA
+Bahrain,B+,B2,B+,-
+Bangladesh,BB-,B1,BB-,-
+Belgium,AA,Aa3,AA-,AA
+Botswana,BBB+,A3,-,-
+Brazil,BB-,Ba2,BB,BB
+Bulgaria,BBB,Baa1,BBB,-
+Canada,AAA,Aaa,AA+,AAA
+Chile,A,A2,A-,N/A
+China,A+,A1,A+,A (high)
+Colombia,BB+,Baa2,BB+,BBB (low)
+Croatia,BBB+,Baa2,BBB+,-
+Cyprus,BBB,Ba1,BBB,BBB
+Czech Republic,AA-,Aa3,AA-,-
+Denmark,AAA,Aaa,AAA,AAA
+Egypt,B,B3,B,-
+Finland,AA+,Aa1,AA+,AA (high)
+France,AA,Aa2,AA-,AA (high)
+Germany,AAA,Aaa,AAA,AAA
+Greece,BB+,Ba3,BB+,BB (high)
+Hong Kong,AA+,Aa3,AA-,-
+Hungary,BBB-,Baa2,BBB,-
+Iceland,A,A2,A,-
+India,BBB-,Baa3,BBB-,BBB (low)
+Indonesia,BBB,Baa2,BBB,-
+Ireland,AA,Aa3,AA-,AA (low)
+Israel,AA-,A1,A+,-
+Italy,BBB,Baa3,BBB,BBB (high)
+Japan,A+,A1,A,A (high)
+Jordan,B+,B1,BB-,-
+Kazakhstan,BBB-,Baa2,BBB,-
+Kenya,B,B3,B,-
+Latvia,A+,A3,A-,A
+Lithuania,A+,A2,A,A (high)
+Malaysia,A-,A3,BBB+,-
+Malta,A-,A2,A+,A (high)
+Mauritius,BBB-,Baa3,-,-
+Mexico,BBB,Baa2,BBB-,BBB
+Morocco,BB+,Ba1,BB+,-
+Namibia,-,B1,BB-,-
+Netherlands,AAA,Aaa,AAA,AAA
+New Zealand,AA+,Aaa,AA+,-
+Nigeria,B-,Caa1,B-,-
+Norway,AAA,Aaa,AAA,AAA
+Pakistan,CCC+,Caa3,CCC,-
+Perù,BBB,Baa1,BBB,N/A
+Philippines,BBB+,Baa2,BBB,-
+Poland,A-,A2,A-,A
+Portugal,BBB+,Baa2,BBB+,A
+Qatar,AA,Aa3,AA-,-
+Romania,BBB-,Baa3,BBB-,-
+Russia,NR,NR,NR,-
+Serbia,BB+,Ba2,BB+,-
+Singapore,AAA,Aaa,AAA,AAA
+Slovakia,A+,A2,A,A
+Slovenia,AA-,A3,A,A (high)
+South Africa,BB-,Ba2,BB-,-
+South Korea,AA,Aa2,AA-,-
+Spain,A,Baa1,A-,A
+Sri Lanka,SD,Ca,RD,-
+Sweden,AAA,Aaa,AAA,AAA
+Switzerland,AAA,Aaa,AAA,AAA
+Taiwan,AA+,Aa3,AA,-
+Thailand,BBB+,Baa1,BBB+,-
+Turkey,B,B3,B,BB (high)
+Uganda,B,B2,B+,-
+Ukraine,CCC,Ca,CC,-
+United Kingdom,AA,Aa3,AA-,AA
+United States,AA+,Aaa,AA+,AAA
+Venezuela,N/A,C,RD,-
+Vietnam,BB+,Ba2,BB,-
+Zambia,SD,Ca,RD,-

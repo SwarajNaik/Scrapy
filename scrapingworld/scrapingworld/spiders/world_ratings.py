@@ -4,7 +4,7 @@ import scrapy
 
 
 class QuotesSpider(scrapy.Spider):
-    name = "scrapingworld"
+    name = "scrapingworld" 
 
     def start_requests(self):
         urls = [
@@ -52,4 +52,4 @@ class QuotesSpider(scrapy.Spider):
         df = pd.DataFrame(json)
         df.to_csv("world_ratings.csv", index=False)
         print("csv done")
-            
+    
